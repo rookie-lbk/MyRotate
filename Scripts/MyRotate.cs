@@ -9,7 +9,7 @@ namespace CenturyGame.MyRotate
 
         void Start()
         {
-
+            Debug.Log("MyRotate Start");
         }
 
         void Update()
