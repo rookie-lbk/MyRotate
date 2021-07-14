@@ -1,11 +1,13 @@
 {
     "name": "CenturyGame.MyRotate.Editor",
-    "references": [],
+    "references": [
+        "CenturyGame.MyRotate"
+    ],
     "optionalUnityReferences": [],
-    "includePlatforms": [],
-    "excludePlatforms": [
+    "includePlatforms": [
         "Editor"
     ],
+    "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
     "precompiledReferences": [],
