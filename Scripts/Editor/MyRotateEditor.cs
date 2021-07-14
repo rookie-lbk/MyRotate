@@ -1,6 +1,5 @@
 ﻿using UnityEditor;
 using UnityEngine;
-using CenturyGame.MyRotate;
 
 namespace CenturyGame.MyRotate.Editor
 {
