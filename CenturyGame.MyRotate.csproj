@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{68FD68D7-8B7E-1AC9-A463-28D1B7656001}</ProjectGuid>
+    <ProjectGuid>{E2391E28-F410-2C8E-85E3-0A40B1342C63}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>CenturyGame.MyRotate</AssemblyName>

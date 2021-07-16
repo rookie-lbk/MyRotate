@@ -116,7 +116,7 @@ MonoBehaviour:
   m_MinSize: {x: 538, y: 498}
   m_MaxSize: {x: 18008, y: 14048}
   vertical: 0
-  controlID: 128
+  controlID: 127
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -141,7 +141,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 448}
   m_MaxSize: {x: 4002, y: 8048}
   vertical: 1
-  controlID: 71
+  controlID: 50
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -218,7 +218,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 498}
   m_MaxSize: {x: 10004, y: 14048}
   vertical: 1
-  controlID: 30
+  controlID: 88
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -444,9 +444,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_Size:
-    m_Target: 2.8578837
+    m_Target: 10
     speed: 2
-    m_Value: 2.8578837
+    m_Value: 10
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -487,9 +487,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 04240000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: c6fbffff
+      m_ExpandedIDs: 60f4ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -551,20 +551,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/MyRotate/Scripts
+    - Assets/MyRotate
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/MyRotate/Scripts
+  - Assets/MyRotate
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: E:\StudyData\ShareProject-diandian\UnityPackageManager
+  m_LastProjectPath: E:\StudyData\ShareProject-diandian\MyRotate
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 72260000
-    m_LastClickedID: 9842
-    m_ExpandedIDs: 00000000e8250000722600004027000000ca9a3b
+    m_SelectedIDs: c22d0000
+    m_LastClickedID: 11714
+    m_ExpandedIDs: 000000006c2c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -592,7 +592,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 300}
     m_SelectedIDs: ccb10000
     m_LastClickedID: 45516
-    m_ExpandedIDs: 00000000e82500007226000040270000
+    m_ExpandedIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -623,15 +623,15 @@ MonoBehaviour:
     m_ExpandedInstanceIDs: da4700000694000026a100005a7e000090950000b29300005a5d00004ebf00006e7b00002cc100000462000010190100e85700001292000032a8000090b00000fc6802006e520000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: MyRotate
-      m_OriginalName: MyRotate
+      m_Name: package
+      m_OriginalName: package
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 9220
+      m_UserData: 11500
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0

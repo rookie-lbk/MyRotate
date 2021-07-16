@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{5257A10C-9847-618D-CE45-D851DD0212CC}</ProjectGuid>
+    <ProjectGuid>{52603853-3F41-9FDD-E0A1-C1D8B4F8CFB1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>CenturyGame.MyRotate.Editor</AssemblyName>
@@ -654,7 +654,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="CenturyGame.MyRotate.csproj">
-      <Project>{68FD68D7-8B7E-1AC9-A463-28D1B7656001}</Project>      <Name>CenturyGame.MyRotate</Name>    </ProjectReference>
+      <Project>{E2391E28-F410-2C8E-85E3-0A40B1342C63}</Project>      <Name>CenturyGame.MyRotate</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
